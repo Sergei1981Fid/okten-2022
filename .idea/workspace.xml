@@ -52,6 +52,8 @@
       <workItem from="1674326515612" duration="37000" />
       <workItem from="1674326586628" duration="20000" />
       <workItem from="1674326677845" duration="21000" />
+      <workItem from="1674326915706" duration="89000" />
+      <workItem from="1674495200890" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="додав файл deletethisstuff..txt">
       <created>1674323496330</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674325910654</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="змінив файл 1..txt 2..txt 3..txt">
+      <created>1674326960371</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674326960372</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
