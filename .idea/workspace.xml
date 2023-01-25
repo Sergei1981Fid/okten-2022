@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20c9d430-508b-4788-81ac-a8b3d46b141a" name="Changes" comment="add some stuff" />
+    <list default="true" id="20c9d430-508b-4788-81ac-a8b3d46b141a" name="Changes" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +82,7 @@
       <workItem from="1674326915706" duration="89000" />
       <workItem from="1674495200890" duration="1196000" />
       <workItem from="1674669551639" duration="81000" />
-      <workItem from="1674669639144" duration="1984000" />
+      <workItem from="1674669639144" duration="3557000" />
     </task>
     <task id="LOCAL-00001" summary="додав файл deletethisstuff..txt">
       <created>1674323496330</created>
@@ -166,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674671506852</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init commit">
+      <created>1674671720255</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674671720255</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +199,7 @@
     <MESSAGE value="додав файл 3..txt" />
     <MESSAGE value="змінив файл 1..txt 2..txt 3..txt" />
     <MESSAGE value="add some stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some stuff" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
