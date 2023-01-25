@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20c9d430-508b-4788-81ac-a8b3d46b141a" name="Changes" comment="змінив файл 1..txt 2..txt 3..txt">
-      <change afterPath="$PROJECT_DIR$/lesson1/demo1/qwe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/demo1/sadqew.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3/asdqwer.txt" afterDir="false" />
-    </list>
+    <list default="true" id="20c9d430-508b-4788-81ac-a8b3d46b141a" name="Changes" comment="add some stuff" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +80,7 @@
       <workItem from="1674326915706" duration="89000" />
       <workItem from="1674495200890" duration="1196000" />
       <workItem from="1674669551639" duration="81000" />
-      <workItem from="1674669639144" duration="1673000" />
+      <workItem from="1674669639144" duration="1984000" />
     </task>
     <task id="LOCAL-00001" summary="додав файл deletethisstuff..txt">
       <created>1674323496330</created>
@@ -156,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674669679602</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add some stuff">
+      <created>1674671430747</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674671430747</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add some stuff">
+      <created>1674671506852</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674671506852</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +189,7 @@
     <MESSAGE value="додав файл 2..txt" />
     <MESSAGE value="додав файл 3..txt" />
     <MESSAGE value="змінив файл 1..txt 2..txt 3..txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="змінив файл 1..txt 2..txt 3..txt" />
+    <MESSAGE value="add some stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="add some stuff" />
   </component>
 </project>
